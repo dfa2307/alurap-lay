@@ -40,7 +40,7 @@
     flex-flow: column wrap;
 }
 
-@media (min-width:440px){
+@media (min-width:300px){
 
 /* CABEÇALHO */
     .cabecalho__pesquisar__item{
